@@ -770,8 +770,44 @@ footer {
   box-shadow: #111111 0px 0px 15px;
   transition: all 100ms ease-out;
   border-radius: 10px;
+  border:#c1a45b solid 3px;
 }
 .image:hover {
   transform: scale(1.2);
 
 }
+.services{
+  margin-top: 10%;
+  
+}
+
+.service-icon{
+  height:12vh;
+  font-weight: bold;
+  font-size:2.4vh;
+  margin: 4vh auto;
+ border-radius: 12px;
+ padding: 2vh 3vh;
+ border:#c1a45b solid 3px;
+ color:#ddd;
+ transition: all 100ms ease-out;
+ 
+}
+
+.service-icon:hover{
+  background-color:#c1a45b;
+  color:#fff;
+  font-size:3.8vh;
+}
+.construction-managment:hover{
+font-size: 3.2vh!important;
+
+}
+
+.design_planning:hover{
+  color:#444;
+  }
+
+  .renovation:hover{
+    color:#666
+  }
