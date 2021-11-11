@@ -198,7 +198,7 @@ footer {
 .custom-navbar {
     margin-bottom: 0;
     font-family: 'Chakra Petch', sans-serif;
-    background-color: #101010;
+    background-color: #161515;
 }
 
 .custom-navbar .navbar-brand {
@@ -254,7 +254,7 @@ footer {
         background: 0 0; 
     }
     .custom-navbar.top-nav-collapse {
-        background: #101010;
+        background: #161515;
         padding: 0;
     }
 
