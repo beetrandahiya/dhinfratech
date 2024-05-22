@@ -764,9 +764,35 @@ footer {
   width: 70%;
   margin: 5vh auto;
   display: grid;
+}
+.gallery-1{
+  width: 100%;
+  margin: 0;
+  margin-bottom: 10vh;
+  display: grid;
   /*3 photos in a row*/
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
+
+}
+.gallery-2{
+  width: 100%;
+  margin: 0;
+  margin-bottom: 10vh;
+  display: grid;
+  /*2 photos in a row*/
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+
+}
+.gallery-3{
+  width: 100%;
+  margin: 0;
+  display: grid;
+  /*1 photo in a row*/
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+
 }
 
 /*make images fit in the grid square cells*/
