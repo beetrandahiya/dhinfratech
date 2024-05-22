@@ -7,13 +7,13 @@ var projects = [
         client: "Omaxe New Chandigarh Extension",
         desc : "is a residential project by Omaxe Group. It is located in Sector 115, Mohali. The project offers 40 3BHK deluxe flats with luxury amenities for the comfort of residents.",
         cost : "Estimated Cost: ₹170,00,000",
-        time : "March 2021 - On Going",
+        time : "March 2021 - December 2022",
         location : "Chandigarh"
     },
     {
         img: "./images/royal_green_logo.jpg",
         title: "Royal Green Homes",
-        client: "for Royal Green Realty",
+        client: "Royal Green Realty",
         desc : "is a residential project for all new Royal Green Homes. It is located in Bahadurgarh. The project offers ____ Deluxe Villas with world class facilities for the premium experience.",
         cost : "Estimated Cost: ₹250,00,000",
         time : "March 2023 - On Going",

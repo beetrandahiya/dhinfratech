@@ -764,6 +764,7 @@ footer {
   width: 70%;
   margin: 5vh auto;
   display: grid;
+  grid-template-columns: repeat(1, 1fr);
 }
 .gallery-1{
   width: 100%;
@@ -834,7 +835,7 @@ footer {
 @media screen and (max-width: 768px){
   .gallery{
     width: 100%;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
   }
   #modal{
     width: 90%;
@@ -945,8 +946,8 @@ li{
   gap: 20px;
 }
 .project-tile-title img{
-  width: 20vh;
-  height: 20vh;
+  width: 15vh;
+  height: 15vh;
   object-fit: cover;
   border-spacing: 10px;
   border-radius: 12px;
